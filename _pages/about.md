@@ -7,7 +7,7 @@ author_profile: true
 
 I am a **Tenure-Track Assistant Professor** in the **Department of Computer Science & Engineering** at the **University of Central Arkansas (UCA)**. My work lies at the intersection of **quantum machine learning, artificial intelligence, health informatics, cybersecurity, and software engineering**, with a focus on developing **trustworthy, efficient, and real-world applicable computational systems**.
 
-My research integrates **classical and quantum machine learning approaches** to address complex challenges in healthcare and security domains. In particular, I work on **multimodal medical data analysis**, including histopathological whole slide images (WSIs), clinical data, and structured biomedical information, with the goal of improving **disease prediction, tumor classification, and clinical decision support systems**.
+My research integrates **classical and quantum machine learning approaches** to address complex challenges in healthcare and cybersecurity domains. In particular, I focus on **multimodal medical data analysis**, including histopathological whole slide images (WSIs), clinical data, and structured biomedical information, with the goal of improving **disease prediction, tumor classification, and clinical decision support systems**.
 
 ## Educational Background
 
