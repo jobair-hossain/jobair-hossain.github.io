@@ -15,7 +15,6 @@ My research integrates **classical and quantum machine learning approaches** to 
 - **M.S. in Software Engineering**, Kennesaw State University, United States  
 - **B.Sc. in Software Engineering**, Sultan Idris Education University, Malaysia  
 
-My academic training spans **software engineering, artificial intelligence, cybersecurity, and health informatics**, which continues to shape both my teaching and research agenda.
 
 ## Research Interests
 
