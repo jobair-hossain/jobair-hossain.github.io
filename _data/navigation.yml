@@ -15,7 +15,10 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Grants & Awards"
+  - title: "Portfolio"
+    url: /portfolio/
+    
+- title: "Grants & Awards"
     url: /award/
 
   - title: "Publications"
