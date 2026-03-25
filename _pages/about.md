@@ -5,11 +5,17 @@ permalink: /
 author_profile: true
 ---
 
-I am a **Tenure-Track Assistant Professor** in the Department of Computer Science & Engineering at the **University of Central Arkansas (UCA)**. My work lies at the intersection of **quantum machine learning, artificial intelligence, health informatics, cybersecurity, and software engineering**, with a focus on developing **trustworthy, efficient, and real-world applicable computational systems**.
+I am a **Tenure-Track Assistant Professor** in the **Department of Computer Science & Engineering** at the **University of Central Arkansas (UCA)**. My work lies at the intersection of **quantum machine learning, artificial intelligence, health informatics, cybersecurity, and software engineering**, with a focus on developing **trustworthy, efficient, and real-world applicable computational systems**.
 
 My research integrates **classical and quantum machine learning approaches** to address complex challenges in healthcare and security domains. In particular, I work on **multimodal medical data analysis**, including histopathological whole slide images (WSIs), clinical data, and structured biomedical information, with the goal of improving **disease prediction, tumor classification, and clinical decision support systems**.
 
----
+## Educational Background
+
+- **Ph.D. in Computer Science**, New York Institute of Technology, United States  
+- **M.S. in Software Engineering**, Kennesaw State University, United States  
+- **B.Sc. in Software Engineering**, Sultan Idris Education University, Malaysia  
+
+My academic training spans **software engineering, artificial intelligence, cybersecurity, and health informatics**, which continues to shape both my teaching and research agenda.
 
 ## Research Interests
 
@@ -28,58 +34,23 @@ My research integrates **classical and quantum machine learning approaches** to 
 - **Trustworthy and Explainable AI**  
   Designing interpretable, robust, and reliable AI systems for high-stakes applications.
 
----
-
-## Research Vision
-
-Modern challenges in healthcare and cybersecurity require **interdisciplinary and scalable solutions**. My long-term vision is to develop **integrated computational frameworks** that combine:
-
-- Machine learning and quantum computing  
-- Software engineering principles and system design  
-- Domain knowledge from healthcare and cybersecurity  
-
-to create systems that are not only accurate but also **trustworthy, interpretable, and deployable in real-world environments**.
-
----
-
-## Current Directions
-
-My ongoing research includes:
-
-- Hybrid quantum-classical learning for medical image analysis  
-- Reinforcement learning-based adaptive model fusion  
-- Multimodal learning using WSIs and clinical data  
-- Evidence-grounded generative AI for clinical decision support  
-- Secure and trustworthy AI for cybersecurity applications  
-
----
-
 ## Teaching
 
-At UCA, I teach courses in:
-
-- Software Engineering  
-- Requirements Engineering  
-
-My teaching philosophy emphasizes **bridging theory and practice**, where students learn how to translate requirements into design and implementation while understanding real-world constraints.
-
----
+At UCA, I teach courses in **software engineering**, **requirements engineering**, and related computing areas. My teaching philosophy emphasizes **bridging theory and practice**, where students learn how to move from requirements to design, implementation, and validation while understanding real-world technical and organizational constraints.
 
 ## Collaboration and Opportunities
 
 I welcome collaboration with:
 
-- Students (undergraduate and graduate)  
-- Academic researchers  
-- Industry professionals  
+- undergraduate and graduate students
+- academic researchers
+- industry professionals
 
-Students interested in research opportunities are encouraged to reach out with their background, interests, and any relevant experience.
-
----
+Students interested in research opportunities are encouraged to contact me with a brief introduction, research interests, and any relevant coursework, projects, or publications.
 
 ## Contact
 
-📧 Email: [mhossainfaruk@uca.edu](mailto:mhossainfaruk@uca.edu)  
-🔗 Google Scholar: https://scholar.google.com/citations?user=tN6WOm4AAAAJ  
-💻 GitHub: https://github.com/jobair-hossain  
-🔗 LinkedIn: https://www.linkedin.com/in/jobair16/
+- **Email:** [mhossainfaruk@uca.edu](mailto:mhossainfaruk@uca.edu)
+- **Google Scholar:** [Profile](https://scholar.google.com/citations?user=tN6WOm4AAAAJ)
+- **GitHub:** [jobair-hossain](https://github.com/jobair-hossain)
+- **LinkedIn:** [jobair16](https://www.linkedin.com/in/jobair16/)
