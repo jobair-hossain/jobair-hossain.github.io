@@ -1,32 +1,160 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=tN6WOm4AAAAJ&hl=en}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>Research contributions in health informatics, quantum machine learning, cybersecurity, software engineering, and intelligent systems.</p>
 
-{% include base_path %}
+<p>
+  <a href="https://scholar.google.com/citations?user=tN6WOm4AAAAJ" target="_blank">
+    View Google Scholar Profile
+  </a>
+</p>
 
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h3>Journal Articles</h3>
+
+<ul>
+  <li>
+    Raihan, M. M., <strong>M. J. H. Faruk</strong>, et al. (2022).
+    <em>A comparative study on HIPAA technical safeguards assessment of android mHealth applications.</em>
+    Smart Health, Elsevier.
+  </li>
+  <p><a href="#">View Publication</a></p>
+
+  <li>
+    Siam, M. K., Varela, A., <strong>M. J. H. Faruk</strong>, et al. (2026).
+    <em>Benchmarking large language models on the United States medical licensing examination for clinical reasoning and medical licensing scenarios.</em>
+    Scientific Reports.
+  </li>
+  <p><a href="https://doi.org/10.1038/s41598-025-31010-4" target="_blank">View Publication</a></p>
+</ul>
+
+<h3>Conference Papers</h3>
+
+<ul>
+  <li>
+    <strong>M. J. H. Faruk</strong>, S. Trivedi, M. Masum, M. Valero, H. Shahriar, and S. I. Ahamed (2022).
+    <em>A Novel IoT-based Framework for Non-Invasive Human Hygiene Monitoring using Machine Learning Techniques.</em>
+    IEEE International Conference on Health Informatics (ICHI). <strong>Best Paper Award.</strong>
+  </li>
+  <p><a href="https://doi.org/10.1109/ICHI54592.2022.00063" target="_blank">View Publication</a></p>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, H. Shahriar, M. Valero, S. Sneha, S. I. Ahamed, and M. Rahman (2021).
+    <em>Towards Blockchain-Based Secure Data Management for Remote Patient Monitoring.</em>
+    IEEE International Conference on Digital Health (ICDH). <strong>Special Paper Award.</strong>
+  </li>
+  <p><a href="https://doi.org/10.1109/ICDH52753.2021.00054" target="_blank">View Publication</a></p>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2025).
+    <em>Multi-Class Deep Learning Model in Whole Slide Images (WSIs): Vision Transformers to Distinguish Cancer, Tumor, Mitosis, Red Blood Cells, and Karyorrhexis.</em>
+    IEEE/ACM CHASE 2025.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2026).
+    <em>A Hybrid Classical-Quantum Machine Learning Framework for Tumor Mutation Classification: A Comprehensive Study of Quantum Optimizers in Medical Image Analysis.</em>
+    IEEE International Conference on Health Informatics (ICHI), 2026.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2026).
+    <em>Reinforcement Learning-Guided Adaptive Fusion Model: Hybrid-Parametrized Quantum Circuits for Robust Histopathological Tumor Classification.</em>
+    Submitted to IEEE International Conference on Health Informatics (ICHI), 2026.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2022).
+    <em>Project-based Learning in Software Engineering Education: Integrating Blockchain-Oriented Repositories in SE Curriculum and Coursework.</em>
+    IEEE/ACIS SERA 2022.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2022).
+    <em>Software Engineering Process and Methodology in Blockchain-Oriented Software Development: A Systematic Study.</em>
+    IEEE/ACIS SERA 2022.
+  </li>
+
+  <li>
+    Mohammad, M., <strong>M. J. H. Faruk</strong>, et al. (2022).
+    <em>Quantum Machine Learning for Software Supply Chain Attacks: How Far Can We Go?</em>
+    IEEE COMPSAC 2022.
+  </li>
+
+  <li>
+    Mst. Shapna, <strong>M. J. H. Faruk</strong>, et al. (2022).
+    <em>Software Supply Chain Vulnerabilities Detection in Source Code: Performance Comparison between Traditional and Quantum Machine Learning Algorithms.</em>
+    IEEE TrustCom 2022.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2022).
+    <em>Blockchain-Based Decentralized Verifiable Credentials: Leveraging Smart Contracts for Privacy-Preserving Authentication Mechanisms to Enhance Data Security in Scientific Data Access.</em>
+    IEEE Big Data 2022.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong> (2023).
+    <em>Malware Classification and Detection using Quantum Neural Network (QNN).</em>
+    ACM SIGCSE 2023.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2022).
+    <em>Authentic Learning of Machine Learning in Cybersecurity with Portable Hands-on Labware: Neural Network Algorithms for Network Denial of Service (DoS) Detection.</em>
+    IEEE Big Data 2022.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2022).
+    <em>Object Detection and Tracking: Deep Learning based Novel Tools to Generate Robust Human and Machine-Annotated Ground Truth Data for Training AI Models.</em>
+    IEEE STI 2022.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2024).
+    <em>A Deep Learning Framework for Object Detection and Tracking: CNN-Based Parcel Tracking on Conveyor Belts.</em>
+    IEEE STI 2024.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, M. Valero, and H. Shahriar (2021).
+    <em>An investigation on non-invasive brain-computer interfaces: Emotiv EpoC+ neuroheadset and its effectiveness.</em>
+    IEEE COMPSAC 2021.
+  </li>
+</ul>
+
+<h3>Book Chapter</h3>
+
+<ul>
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2022).
+    <em>AI-oriented Software Engineering: Challenges, Opportunities and New Directions.</em>
+    IEEE/Springer.
+  </li>
+</ul>
+
+<h3>Under Review / In Progress</h3>
+
+<ul>
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2026).
+    <em>A Vision Transformer-based Framework: Deep Learning-Based Prediction of MYCN Amplification from Neuroblastic Tumors Whole-Slide Images.</em>
+    Submitted to Nature Cancer.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al. (2025).
+    <em>Deep Learning-based Novel Model for Cancer Classification in Pediatric Neuroblastoma and Ganglioneuroblastoma: Tumor Mutation Prediction using Nodular-Type WSIs Datasets.</em>
+    In progress.
+  </li>
+
+  <li>
+    <strong>M. J. H. Faruk</strong>, et al.
+    <em>Deep Learning Framework for Object Detection and Tracking in Logistics: Automated Annotation and Optimized Package Identification Using CNN and Hungarian Algorithm with Multi-Dataset Analysis.</em>
+    In progress.
+  </li>
+</ul>
