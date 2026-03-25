@@ -5,121 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Selected Publications
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
-### Health Informatics and AI in Medicine
+{% include base_path %}
 
-1. **Faruk, M. J. H.**, et al.  
-   *A Hybrid Classical–Quantum Machine Learning Framework for Tumor Mutation Classification: A Comprehensive Study of Quantum Optimizers in Medical Image Analysis.*  
-   IEEE International Conference on Health Informatics (ICHI), 2026.  
-
-2. **Faruk, M. J. H.**, et al.  
-   *Reinforcement Learning-Guided Adaptive Fusion Model: Hybrid Parametrized Quantum Circuits for Robust Histopathological Tumor Classification.*  
-   Submitted to IEEE ICHI, 2026.  
-
-3. Siam, M. K., Varela, A., **Faruk, M. J. H.**, et al.  
-   *Benchmarking Large Language Models on the United States Medical Licensing Examination for Clinical Reasoning.*  
-   Nature Scientific Reports, 2026.  
-
-4. **Faruk, M. J. H.**, et al.  
-   *Multi-Class Deep Learning Model in Whole Slide Images (WSIs): Vision Transformers for Histopathological Analysis.*  
-   IEEE/ACM CHASE, 2025.  
-
-5. **Faruk, M. J. H.**, et al.  
-   *Fusion-Augmented Large Language Models: Boosting Diagnostic Trustworthiness via Model Consensus.*  
-   IEEE BHI, 2025.  
-
----
-
-### Health Informatics (Earlier Work)
-
-6. **Faruk, M. J. H.**, et al.  
-   *A Novel IoT-based Framework for Non-Invasive Human Hygiene Monitoring using Machine Learning Techniques.*  
-   IEEE ICHI, 2022. (**Best Paper Award**)  
-
-7. **Faruk, M. J. H.**, et al.  
-   *Blockchain-Based Secure Data Management for Remote Patient Monitoring.*  
-   IEEE ICDH, 2021. (**Special Paper Award**)  
-
-8. Raihan, M. M., **Faruk, M. J. H.**, et al.  
-   *HIPAA Technical Safeguards Assessment of Android mHealth Applications.*  
-   Smart Health (Elsevier), 2022.  
-
----
-
-### Software Engineering and Systems
-
-9. **Faruk, M. J. H.**, et al.  
-   *Project-Based Learning in Software Engineering Education: Integrating Blockchain-Oriented Repositories.*  
-   IEEE SERA, 2022.  
-
-10. **Faruk, M. J. H.**, et al.  
-   *AI-Oriented Software Engineering: Challenges, Opportunities and New Directions.*  
-   IEEE/Springer, 2022.  
-
-11. **Faruk, M. J. H.**, et al.  
-   *Software Engineering Process and Methodology in Blockchain-Oriented Development: A Systematic Study.*  
-   IEEE SERA, 2022.  
-
----
-
-### Cybersecurity and Quantum Computing
-
-12. **Faruk, M. J. H.**, et al.  
-   *Quantum Machine Learning for Software Supply Chain Attacks.*  
-   IEEE COMPSAC, 2022.  
-
-13. **Faruk, M. J. H.**, et al.  
-   *Software Supply Chain Vulnerabilities Detection Using Quantum Machine Learning.*  
-   IEEE TrustCom, 2022.  
-
-14. **Faruk, M. J. H.**, et al.  
-   *Blockchain-Based Verifiable Credentials with Smart Contracts for Secure Data Access.*  
-   IEEE BigData, 2022.  
-
-15. **Faruk, M. J. H.**  
-   *Malware Classification and Detection using Quantum Neural Networks (QNN).*  
-   ACM SIGCSE, 2023.  
-
----
-
-### AI, Computer Vision, and Systems
-
-16. **Faruk, M. J. H.**, et al.  
-   *Object Detection and Tracking: Deep Learning-Based Annotation and Ground Truth Generation.*  
-   IEEE STI, 2022.  
-
-17. **Faruk, M. J. H.**, et al.  
-   *Deep Learning Framework for Object Detection and Tracking in Logistics.*  
-   IEEE STI, 2024.  
-
-18. **Faruk, M. J. H.**, et al.  
-   *Neural Network-Based Detection of Network Denial-of-Service (DoS) Attacks.*  
-   IEEE BigData, 2022.  
-
-19. **Faruk, M. J. H.**, et al.  
-   *Investigation of Non-Invasive Brain-Computer Interfaces using Emotiv EPOC+.*  
-   IEEE COMPSAC, 2021.  
-
----
-
-## Under Review and Work in Progress
-
-1. **Faruk, M. J. H.**, et al.  
-   *Vision Transformer-Based Framework for MYCN Amplification Prediction from Neuroblastic Tumor WSIs.*  
-   Submitted to Nature Cancer, 2026.  
-
-2. **Faruk, M. J. H.**, et al.  
-   *Deep Learning-Based Tumor Mutation Prediction in Neuroblastoma and Ganglioneuroblastoma.*  
-   In preparation, JAMIA.  
-
-3. **Faruk, M. J. H.**, et al.  
-   *Deep Learning Framework for Object Detection and Tracking in Logistics.*  
-   Journal submission in progress.  
-
----
-
-## Notes
-
-- Full publication list will be continuously updated.  
-- Selected publications highlight representative contributions across research domains.  
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
