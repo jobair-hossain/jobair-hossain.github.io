@@ -11,45 +11,61 @@ My research integrates **classical and quantum machine learning approaches** to 
 
 ## Educational Background
 
-- **Ph.D. in Computer Science**, New York Institute of Technology, United States  
-- **M.S. in Software Engineering**, Kennesaw State University, United States  
-- **B.Sc. in Software Engineering**, Sultan Idris Education University, Malaysia  
-
+I earned my **Ph.D. in Computer Science** from **New York Institute of Technology**, my **M.S. in Software Engineering** from **Kennesaw State University**, and my **B.Sc. in Software Engineering** from **Sultan Idris Education University, Malaysia**. My academic training has provided a strong interdisciplinary foundation across software engineering, machine learning, cybersecurity, and health informatics.
 
 ## Research Interests
 
-- **Quantum Machine Learning (QML)**  
-  Hybrid quantum-classical models, variational quantum circuits, and optimization strategies for real-world applications.
+My research interests include **quantum machine learning**, **artificial intelligence for healthcare**, **multimodal medical data analysis**, **computational pathology**, **cybersecurity analytics**, and **software engineering**. I am particularly interested in building hybrid quantum-classical learning frameworks, reinforcement learning-based fusion models, secure and explainable AI systems, and evidence-grounded generative approaches for clinical decision support. Across these areas, my goal is to design methods that are not only accurate, but also interpretable, reliable, and suitable for real-world deployment.
 
-- **Health Informatics and AI in Medicine**  
-  Computational pathology, multimodal learning, tumor mutation prediction, and evidence-based clinical decision support.
+## Teaching Interests
 
-- **Cybersecurity Analytics**  
-  Machine learning and quantum-enhanced methods for malware detection, ransomware analysis, and software supply chain vulnerabilities.
+My teaching interests include **software engineering**, **requirements engineering**, **computer networking**, **cloud computing**, **cybersecurity**, and emerging areas such as **quantum machine learning** and **artificial intelligence**. I value a teaching approach that connects theory with practice, enabling students to move from requirements and design to implementation, testing, and evaluation while developing strong technical communication and problem-solving skills.
 
-- **Software Engineering**  
-  Requirements engineering, software architecture, validation, and building reliable, scalable, and maintainable systems.
+## Work History
 
-- **Trustworthy and Explainable AI**  
-  Designing interpretable, robust, and reliable AI systems for high-stakes applications.
+### University of Central Arkansas  
+**Tenure-Track Assistant Professor**, Department of Computer Science & Engineering  
+*2025–Present*
 
-## Teaching
+I teach and develop courses in software engineering and related computing areas while advancing a research program in quantum machine learning, health informatics, cybersecurity, and software engineering.
 
-At UCA, I teach courses in **software engineering**, **requirements engineering**, and related computing areas. My teaching philosophy emphasizes **bridging theory and practice**, where students learn how to move from requirements to design, implementation, and validation while understanding real-world technical and organizational constraints.
+### New York Institute of Technology  
+**Graduate Research Assistant**, Jerry Cheng Research Lab  
+*September 2023–Present*
+
+At New York Tech, I have contributed to research in quantum machine learning for cancer classification, deep learning-based tumor mutation prediction using whole slide images, multimodal speech emotion recognition, and blockchain in software engineering education. This work has supported multiple peer-reviewed publications in venues such as IEEE ICHI, IEEE/ACM CHASE, IEEE SDS, and IEEE SERA.
+
+### United Nations Headquarters  
+**Information Systems & Communication Technology Intern**, Office of Information and Communications Technology  
+*May 2024–August 2024; February 2020–August 2020*
+
+At the United Nations Headquarters, I worked with the Office of Information and Communications Technology and contributed to research and development activities involving generative AI, multilingual digital systems, and content-driven web applications. I also assisted in developing features for a flagship UN platform in AWS and GitHub-based environments.
+
+### University of Illinois Urbana-Champaign  
+**SciAuth Fellow**, National Center for Supercomputing Applications (NCSA)  
+*January 2023–August 2023*
+
+As a SciAuth Fellow, I worked on blockchain-based verifiable credentials and privacy-preserving authentication frameworks for scientific data access. This work contributed to research on smart contracts, data security, and trusted digital infrastructure.
+
+### Kennesaw State University  
+**Graduate Research Assistant**, HISA and IoTAS Research Labs  
+*August 2021–2023*
+
+At Kennesaw State University, I worked on research projects in machine learning for cybersecurity, blockchain-based secure data management for remote patient monitoring, non-invasive human hygiene monitoring, and secure mobile software development. These efforts resulted in multiple peer-reviewed and award-winning publications, including recognition at IEEE ICHI and IEEE ICDH.
+
+### Material Handling Systems, Inc.  
+**R&D Software Engineering Intern**, Computer Vision Team  
+*May 2022–August 2022*
+
+In this role, I designed and developed deep learning-based object detection and tracking applications, built data annotation tools, created large human-annotated datasets, and contributed to testing, optimization, and technical documentation in a Linux-based R&D environment.
 
 ## Collaboration and Opportunities
 
-I welcome collaboration with:
-
-- undergraduate and graduate students
-- academic researchers
-- industry professionals
-
-Students interested in research opportunities are encouraged to contact me with a brief introduction, research interests, and any relevant coursework, projects, or publications.
+I welcome collaboration with **undergraduate and graduate students**, **academic researchers**, and **industry professionals**. Students interested in research opportunities are encouraged to contact me with a brief introduction, research interests, and any relevant coursework, projects, or publications.
 
 ## Contact
 
 - **Email:** [mhossainfaruk@uca.edu](mailto:mhossainfaruk@uca.edu)
-- **Google Scholar:** [Profile](https://scholar.google.com/citations?user=tN6WOm4AAAAJ)
-- **GitHub:** [jobair-hossain](https://github.com/jobair-hossain)
-- **LinkedIn:** [jobair16](https://www.linkedin.com/in/jobair16/)
+- **Google Scholar:** [G Scholar Profile](https://scholar.google.com/citations?user=tN6WOm4AAAAJ)
+- **GitHub:** [Git Hub Profile](https://github.com/jobair-hossain)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jobair16/)
