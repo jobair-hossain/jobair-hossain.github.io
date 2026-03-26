@@ -37,6 +37,7 @@ Selected media coverage and highlights from academic, research, and professional
 
 ---
 
+<!-- 
 ## Other Activities
 
 Selected moments from conferences, invited talks, academic events, workshops, research presentations, and professional activities.
@@ -136,3 +137,4 @@ Selected moments from conferences, invited talks, academic events, workshops, re
   }
 }
 </style>
+-->
