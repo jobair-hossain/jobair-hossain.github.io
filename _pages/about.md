@@ -23,41 +23,17 @@ My teaching interests include **software engineering**, **requirements engineeri
 
 ## Work History
 
-### University of Central Arkansas  
-**Tenure-Track Assistant Professor**, Department of Computer Science & Engineering  
-*2025–Present*
+- **Tenure-Track Assistant Professor**, University of Central Arkansas, Department of Computer Science & Engineering (2025–Present)
 
-I teach and develop courses in software engineering and related computing areas while advancing a research program in quantum machine learning, health informatics, cybersecurity, and software engineering.
+- **Graduate Research Assistant**, New York Institute of Technology, Jerry Cheng Research Lab (September 2023–Present)
 
-### New York Institute of Technology  
-**Graduate Research Assistant**, Jerry Cheng Research Lab  
-*September 2023–Present*
+- **Information Systems & Communication Technology Intern**, United Nations Headquarters, Office of Information and Communications Technology (May 2024–August 2024; February 2020–August 2020)
 
-At New York Tech, I have contributed to research in quantum machine learning for cancer classification, deep learning-based tumor mutation prediction using whole slide images, multimodal speech emotion recognition, and blockchain in software engineering education. This work has supported multiple peer-reviewed publications in venues such as IEEE ICHI, IEEE/ACM CHASE, IEEE SDS, and IEEE SERA.
+- **SciAuth Fellow**, University of Illinois Urbana-Champaign, National Center for Supercomputing Applications (January 2023–August 2023)
 
-### United Nations Headquarters  
-**Information Systems & Communication Technology Intern**, Office of Information and Communications Technology  
-*May 2024–August 2024; February 2020–August 2020*
+- **Graduate Research Assistant**, Kennesaw State University, HISA and IoTAS Research Labs (August 2021–2023)
 
-At the United Nations Headquarters, I worked with the Office of Information and Communications Technology and contributed to research and development activities involving generative AI, multilingual digital systems, and content-driven web applications. I also assisted in developing features for a flagship UN platform in AWS and GitHub-based environments.
-
-### University of Illinois Urbana-Champaign  
-**SciAuth Fellow**, National Center for Supercomputing Applications (NCSA)  
-*January 2023–August 2023*
-
-As a SciAuth Fellow, I worked on blockchain-based verifiable credentials and privacy-preserving authentication frameworks for scientific data access. This work contributed to research on smart contracts, data security, and trusted digital infrastructure.
-
-### Kennesaw State University  
-**Graduate Research Assistant**, HISA and IoTAS Research Labs  
-*August 2021–2023*
-
-At Kennesaw State University, I worked on research projects in machine learning for cybersecurity, blockchain-based secure data management for remote patient monitoring, non-invasive human hygiene monitoring, and secure mobile software development. These efforts resulted in multiple peer-reviewed and award-winning publications, including recognition at IEEE ICHI and IEEE ICDH.
-
-### Material Handling Systems, Inc.  
-**R&D Software Engineering Intern**, Computer Vision Team  
-*May 2022–August 2022*
-
-In this role, I designed and developed deep learning-based object detection and tracking applications, built data annotation tools, created large human-annotated datasets, and contributed to testing, optimization, and technical documentation in a Linux-based R&D environment.
+- **R&D Software Engineering Intern**, Material Handling Systems, Inc., Computer Vision Team (May 2022–August 2022)
 
 ## Collaboration and Opportunities
 
